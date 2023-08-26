@@ -5,7 +5,7 @@ repo: uptime
 
 sites:
   - name: Nextcloud
-    url: $NEXTCLOUD_URL
+    url: $URL_NEXTCLOUD
 
 status-website:
   baseUrl: /uptime
