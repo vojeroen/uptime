@@ -4,6 +4,16 @@ owner: vojeroen
 repo: uptime
 
 sites:
+  - name: Bitwarden
+    url: $URL_BITWARDEN
+  - name: Chat (element)
+    url: $URL_ELEMENT
+  - name: Chat (synapse)
+    url: $URL_SYNAPSE
+  - name: Git
+    url: $URL_GIT
+  - name: Home assistant
+    url: $URL_HOME_ASSISTANT
   - name: Mail IMAP
     check: "tcp-ping"
     url: $DOMAIN_MAIL_IMAP
@@ -18,6 +28,8 @@ sites:
     port: 587
   - name: Nextcloud
     url: $URL_NEXTCLOUD
+  - name: Timetracker
+    url: $URL_TIMETRACKER
 
 status-website:
   baseUrl: /uptime
