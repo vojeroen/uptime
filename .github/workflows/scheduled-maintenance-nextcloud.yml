@@ -2,6 +2,7 @@ name: "Scheduled maintenance: Nextcloud"
 on:
   schedule:
     - cron: 0 20 * * *
+  workflow_dispatch:
 
 jobs:
   create_issue:
