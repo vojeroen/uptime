@@ -4,6 +4,18 @@ owner: vojeroen
 repo: uptime
 
 sites:
+  - name: Mail IMAP
+    check: "tcp-ping"
+    url: $DOMAIN_MAIL_IMAP
+    port: 993
+  - name: Mail SMTP delivery
+    check: "tcp-ping"
+    url: $DOMAIN_MAIL_SMTP
+    port: 25
+  - name: Mail SMTP submission
+    check: "tcp-ping"
+    url: $DOMAIN_MAIL_SMTP
+    port: 587
   - name: Nextcloud
     url: $URL_NEXTCLOUD
 
