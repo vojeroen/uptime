@@ -1,0 +1,30 @@
+name: "Scheduled maintenance: Nextcloud"
+on:
+  schedule:
+    - cron: 0 20 * * *
+
+jobs:
+  create_issue:
+    name: Create scheduled maintenance issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date -d 'tomorrow' +'%Y-%m-%d')"
+      - name: Create scheduled maintenance issue
+        uses: imjohnbo/issue-bot@3d96848fb5e9a4a473bb81ae62b4b4866a56e93a
+        with:
+          labels: "maintenance"
+          title: "Scheduled maintenance: Nextcloud (${{ steps.date.outputs.date }})"
+          body: |
+            <!--
+            start: ${{ steps.date.outputs.date }}T01:00:00+00:00
+            end: ${{ steps.date.outputs.date }}T01:30:00+00:00
+            expectedDown: nextcloud
+            -->
+          pinned: false
+          close-previous: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
