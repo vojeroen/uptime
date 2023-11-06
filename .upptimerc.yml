@@ -28,6 +28,8 @@ sites:
     port: 587
   - name: Nextcloud
     url: $URL_NEXTCLOUD
+  - name: Projects
+    url: $URL_PROJECTS
   - name: Timetracker
     url: $URL_TIMETRACKER
 
