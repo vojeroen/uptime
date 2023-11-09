@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 635,
-    "timeDay": 498,
-    "timeWeek": 588,
-    "timeMonth": 640,
-    "timeYear": 635,
+    "time": 634,
+    "timeDay": 494,
+    "timeWeek": 561,
+    "timeMonth": 642,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-11-08": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 530,
-    "timeDay": 419,
-    "timeWeek": 462,
-    "timeMonth": 497,
-    "timeYear": 530,
+    "time": 528,
+    "timeDay": 392,
+    "timeWeek": 447,
+    "timeMonth": 496,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2023-11-08": 17
     }
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-synapse",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 480,
-    "timeDay": 355,
-    "timeWeek": 419,
-    "timeMonth": 483,
-    "timeYear": 480,
-    "dailyMinutesDown": {
-      "2023-11-08": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 479,
+    "timeDay": 372,
+    "timeWeek": 405,
+    "timeMonth": 484,
+    "timeYear": 479,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Git",
@@ -65,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 495,
-    "timeDay": 397,
-    "timeWeek": 456,
-    "timeMonth": 508,
-    "timeYear": 495,
-    "dailyMinutesDown": {
-      "2023-11-08": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 494,
+    "timeDay": 412,
+    "timeWeek": 446,
+    "timeMonth": 510,
+    "timeYear": 494,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home assistant",
@@ -85,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 493,
-    "timeDay": 358,
-    "timeWeek": 412,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 492,
+    "timeDay": 398,
+    "timeWeek": 408,
     "timeMonth": 515,
-    "timeYear": 493,
-    "dailyMinutesDown": {
-      "2023-11-08": 11
-    }
+    "timeYear": 492,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail IMAP",
@@ -105,19 +99,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 172,
-    "timeDay": 122,
-    "timeWeek": 150,
-    "timeMonth": 173,
-    "timeYear": 172,
-    "dailyMinutesDown": {
-      "2023-11-08": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 171,
+    "timeDay": 123,
+    "timeWeek": 148,
+    "timeMonth": 172,
+    "timeYear": 171,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail SMTP delivery",
@@ -130,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 104,
-    "timeWeek": 135,
+    "time": 157,
+    "timeDay": 115,
+    "timeWeek": 128,
     "timeMonth": 153,
-    "timeYear": 158,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -143,19 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-submission",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 155,
-    "timeDay": 125,
-    "timeWeek": 140,
-    "timeMonth": 157,
-    "timeYear": 155,
-    "dailyMinutesDown": {
-      "2023-11-08": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 154,
+    "timeDay": 132,
+    "timeWeek": 138,
+    "timeMonth": 158,
+    "timeYear": 154,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud",
@@ -164,18 +154,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 667,
-    "timeWeek": 713,
+    "timeDay": 694,
+    "timeWeek": 707,
     "timeMonth": 734,
     "timeYear": 717,
-    "dailyMinutesDown": {
-      "2023-11-08": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Projects",
@@ -183,19 +171,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "projects",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 398,
-    "timeDay": 376,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
-    "dailyMinutesDown": {
-      "2023-11-08": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 402,
+    "timeDay": 374,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Timetracker",
@@ -208,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 713,
-    "timeWeek": 802,
-    "timeMonth": 841,
-    "timeYear": 821,
+    "time": 819,
+    "timeDay": 695,
+    "timeWeek": 782,
+    "timeMonth": 840,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   }
 ]
