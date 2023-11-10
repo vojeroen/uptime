@@ -4,18 +4,19 @@
     "url": "$URL_BITWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 636,
     "timeDay": 779,
     "timeWeek": 590,
     "timeMonth": 651,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2023-11-10": 10,
       "2023-11-08": 19
     }
   },
@@ -24,11 +25,11 @@
     "url": "$URL_ELEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-element",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 528,
     "timeDay": 534,
@@ -36,6 +37,7 @@
     "timeMonth": 500,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2023-11-10": 7,
       "2023-11-08": 17
     }
   },
@@ -44,36 +46,40 @@
     "url": "$URL_SYNAPSE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 537,
     "timeWeek": 418,
     "timeMonth": 487,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 5
+    }
   },
   {
     "name": "Git",
     "url": "$URL_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 494,
     "timeDay": 541,
     "timeWeek": 454,
     "timeMonth": 513,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 2
+    }
   },
   {
     "name": "Home assistant",
@@ -82,8 +88,8 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
@@ -91,7 +97,9 @@
     "timeWeek": 424,
     "timeMonth": 519,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 1
+    }
   },
   {
     "name": "Mail IMAP",
