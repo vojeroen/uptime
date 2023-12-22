@@ -62,9 +62,9 @@
     "url": "$URL_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 566,
     "timeMonth": 517,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   },
   {
     "name": "Home assistant",
@@ -81,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "64.83%",
+    "uptime": "64.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.83%",
+    "uptimeYear": "64.77%",
     "time": 487,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 465,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-12-22": 206,
+      "2023-12-22": 377,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -198,18 +200,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 774,
     "timeWeek": 1273,
     "timeMonth": 875,
     "timeYear": 756,
-    "dailyMinutesDown": {
-      "2023-12-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Projects",
