@@ -63,9 +63,9 @@
     "url": "$URL_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 514,
     "timeMonth": 527,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-02": 0
+    }
   },
   {
     "name": "Home assistant",
@@ -82,18 +84,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "59.34%",
+    "uptime": "59.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.34%",
+    "uptimeYear": "59.20%",
     "time": 487,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 480,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-01-02": 67,
+      "2024-01-02": 509,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
