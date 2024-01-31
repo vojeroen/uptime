@@ -1,7 +1,7 @@
 url: $DOMAIN_MAIL_IMAP
 status: up
 code: 200
-responseTime: 180
-lastUpdated: 2024-01-30T23:14:47.966Z
+responseTime: 120
+lastUpdated: 2024-01-31T23:13:46.480Z
 startTime: 2023-08-26T06:56:20.921Z
 generator: Upptime <https://github.com/upptime/upptime>
