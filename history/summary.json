@@ -28,18 +28,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-element",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 534,
     "timeWeek": 466,
     "timeMonth": 514,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2024-04-17": 13,
       "2023-11-08": 17
     }
   },
@@ -219,19 +218,19 @@
     "url": "$DOMAIN_MAIL_SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-submission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 104,
-    "timeWeek": 118,
+    "timeDay": 107,
+    "timeWeek": 117,
     "timeMonth": 127,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-04-17": 2
+      "2024-04-17": 12
     }
   },
   {
