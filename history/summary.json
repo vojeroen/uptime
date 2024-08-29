@@ -116,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "80.06%",
+    "uptime": "80.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -288,7 +288,7 @@
     "time": 772,
     "timeDay": 682,
     "timeWeek": 745,
-    "timeMonth": 790,
+    "timeMonth": 795,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2024-07-03": 119,
