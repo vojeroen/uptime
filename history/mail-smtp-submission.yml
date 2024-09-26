@@ -1,7 +1,7 @@
 url: $DOMAIN_MAIL_SMTP
 status: up
 code: 200
-responseTime: 170
-lastUpdated: 2024-09-25T23:16:16.041Z
+responseTime: 104
+lastUpdated: 2024-09-26T23:17:00.985Z
 startTime: 2023-08-26T06:56:23.920Z
 generator: Upptime <https://github.com/upptime/upptime>
