@@ -1,7 +1,7 @@
 url: $URL_TIMETRACKER
-status: up
-code: 200
-responseTime: 1095
-lastUpdated: 2025-05-14T23:17:49.238Z
+status: down
+code: 502
+responseTime: 3958
+lastUpdated: 2025-05-15T22:00:05.038Z
 startTime: 2023-08-26T07:04:34.746Z
 generator: Upptime <https://github.com/upptime/upptime>
