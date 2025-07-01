@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "88.69%",
+    "uptime": "88.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -194,9 +194,9 @@
     "url": "$DOMAIN_MAIL_SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-delivery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,7 +205,9 @@
     "timeWeek": 107,
     "timeMonth": 113,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "Mail SMTP submission",
@@ -235,12 +237,12 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "55.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "64.26%",
     "uptimeMonth": "91.54%",
     "uptimeYear": "98.66%",
     "time": 865,
-    "timeDay": 1031,
+    "timeDay": 1174,
     "timeWeek": 1028,
     "timeMonth": 1154,
     "timeYear": 895,
