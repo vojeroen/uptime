@@ -194,19 +194,19 @@
     "url": "$DOMAIN_MAIL_SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp-delivery",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 83,
-    "timeWeek": 107,
-    "timeMonth": 113,
+    "timeDay": 86,
+    "timeWeek": 105,
+    "timeMonth": 112,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 6
     }
   },
   {
