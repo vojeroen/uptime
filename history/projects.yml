@@ -1,7 +1,7 @@
 url: $URL_PROJECTS
-status: up
-code: 200
-responseTime: 670
-lastUpdated: 2025-08-30T23:16:42.330Z
+status: down
+code: 503
+responseTime: 600
+lastUpdated: 2025-08-31T07:27:02.510Z
 startTime: 2023-11-06T20:37:13.191Z
 generator: Upptime <https://github.com/upptime/upptime>
